@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0084/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 火𤙖供養儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0913.xml
+    old_id: T18n0913
+hash: sha256:321480757d3f39a07158e8dafa168d237ea38a8d99c65ccddf3d9a4054a15673
